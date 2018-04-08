@@ -1,0 +1,30 @@
+﻿strong
+ {
+            font-family:Segoe UI;
+            font-size:28pt;
+            color:red;
+ }
+.class1
+{
+    font-family:Segoe UI;
+    font-size:20pt;
+    color:yellow;
+}
+#id1
+{
+    font-family:Segoe UI;
+    font-size:25pt;
+    color:green;
+    background-color: lightcyan;
+}
+div
+{
+    font-family:Segoe UI;
+    font-size:22pt;
+    color:blue;
+    background-color: magenta;
+}
+div div
+{
+    color:gold;
+}
